@@ -6,10 +6,10 @@ const neon = {
   pronouns: "she" | "her",
   liveIn: "Seoul",
   makeWith: {
-    code: [Javascript, Typescript, HTML, Scss, CSS],
+    code: [Javascript, Typescript, HTML, Scss, CSS, MySQL],
     tools: [React, Redux, Node]
   },
-  interestedIn: [GraphQL, DataVisualization],
+  interestedIn: [Tailwind, ReactNative, NextJS, Express, GraphQL, Python, DataVisualization],
   love: [🐱, 🧩, 💻]
 }
 ```
