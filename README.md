@@ -9,7 +9,7 @@ const neon = {
     code: [Javascript, Typescript, HTML, Scss, CSS, MySQL],
     tools: [React, Redux, Node]
   },
-  interestedIn: [Tailwind, Vue, ReactNative, NextJS, Express, GraphQL, Python, DataVisualization],
+  interestedIn: [Tailwind, Vue, ReactNative, NextJS, Express, GraphQL, Python, 3DInteraction, DataVisualization],
   love: [🐱, 🧩, 💻]
 }
 ```
