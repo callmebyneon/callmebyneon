@@ -8,7 +8,7 @@ const neon = {
   makeWith: {
     code: [Javascript, HTML, Scss, CSS],
     tools: [React, Redux, Node],
-    etc: [ResponsiveWeb, MarkupValidation]
+    etc: [ResponsiveWeb]
   },
   interestedIn: {
     code: [Tailwind, Typescript, Python],
