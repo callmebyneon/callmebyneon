@@ -7,12 +7,12 @@ const neon = {
   liveIn: "Seoul",
   makeWith: {
     code: [Javascript, HTML, Scss, CSS],
-    tools: [React, Redux, Node],
+    tools: [React, Node, jQuery],
     etc: [ResponsiveWeb]
   },
   interestedIn: {
     code: [Tailwind, Typescript, Python],
-    tools: [Vue, Recoil, NextJS, Express, GraphQL],
+    tools: [Vue, NextJS, Express, GraphQL],
     etc: [MultiPlatformApp, Accessibility, AtomicDesign, TDD, 3DInteraction, DataVisualization]
   love: [🐱, 🧩, 💻]
 }
