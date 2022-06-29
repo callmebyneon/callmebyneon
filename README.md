@@ -12,7 +12,7 @@ const neon = {
   },
   interestedIn: {
     code: [Tailwind, Typescript, Python],
-    tools: [Vue, NextJS, Express, GraphQL],
+    tools: [Vue, Recoil, NextJS, Express, GraphQL],
     etc: [MultiPlatformApp, Accessibility, AtomicDesign, TDD, 3DInteraction, DataVisualization]
   love: [🐱, 🧩, 💻]
 }
