@@ -1,22 +1,30 @@
-### 😃 Nice to meet you and welcome to my page!   
+## 😃 Nice to meet you and welcome to my page!   
 
 ```js
 // more about me
 const neon = {
   pronouns: "she" | "her",
   fresher: 2020,
+  presentPosition: "Web Front-end Developer",
   liveIn: "Seoul",
   makeWith: {
-    code: [Javascript, HTML, Scss, CSS],
-    tools: [React, jQuery],
-    etc: [ResponsiveWeb]
+    code: ['JavaScript', 'HTML', 'CSS', 'Scss'],
+    tools: ['React', 'jQuery Ajax', 'REST API'],
+    etc: ['JavaScript Libraries', 'Responsive Web']
   },
   moreInterestedIn: {
-    code: [Tailwind, Typescript, Python],
-    tools: [Vue, NextJS, Express, GraphQL],
-    etc: [MultiPlatformApp, Accessibility, AtomicDesign, TDD, 3DInteraction, DataVisualization]
+    code: ['Typescript', 'Python'],
+    tools: ['Angular', 'Vue', 'NextJS', 'GraphQL'],
+    etc: [
+      'Multi-Platform App', 
+      'Accessibility',
+      'Atomic Design', 
+      'TDD', 
+      '3D Interaction', 
+      'Data Visualization',
+    ]
   },
-  love: [🐱, 🧩, 💻]
+  love: [🐱, 🧩, 💻],
 }
 ```
 
