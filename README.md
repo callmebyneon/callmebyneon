@@ -20,6 +20,7 @@ const neon = {
       'Accessibility',
       'Atomic Design', 
       'TDD', 
+      'OOP',
       '3D Interaction', 
       'Data Visualization',
     ]
