@@ -2,7 +2,7 @@
 
 ```js
 // more about me
-const neon = {
+const nayeon = {
   pronouns: "she" | "her",
   fresher: 2020,
   presentPosition: "Web Front-end Developer",
